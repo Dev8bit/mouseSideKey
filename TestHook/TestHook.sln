@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestHook", "TestHook.vcproj", "{4DEF5093-A669-4F4B-B182-EB67E239979B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Mouse", "..\Mouse\Mouse.vcproj", "{286DBF6F-5C10-4787-B2E6-77B78BC905D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DEF5093-A669-4F4B-B182-EB67E239979B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4DEF5093-A669-4F4B-B182-EB67E239979B}.Debug|Win32.Build.0 = Debug|Win32
+		{4DEF5093-A669-4F4B-B182-EB67E239979B}.Release|Win32.ActiveCfg = Release|Win32
+		{4DEF5093-A669-4F4B-B182-EB67E239979B}.Release|Win32.Build.0 = Release|Win32
+		{286DBF6F-5C10-4787-B2E6-77B78BC905D0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{286DBF6F-5C10-4787-B2E6-77B78BC905D0}.Debug|Win32.Build.0 = Debug|Win32
+		{286DBF6F-5C10-4787-B2E6-77B78BC905D0}.Release|Win32.ActiveCfg = Release|Win32
+		{286DBF6F-5C10-4787-B2E6-77B78BC905D0}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
